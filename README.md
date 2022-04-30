@@ -27,7 +27,9 @@ This looked pretty spot on. Everything looks like it's in the right order and fo
 
 The following image demonstrates the web application's appearance and functionality:
 
-![Screen shot of the appearance of the Horiseon website.](./assets/image-1.png)
+![Screen shot of the top portion of the Horiseon website.](https://github.com/joliver521/horiseon/blob/main/assets/images/website-top-screen-shot.png)
+
+![Screen shot of the bottom portion of the Horiseon website.](https://github.com/joliver521/horiseon/blob/main/assets/images/website-bottom-screen-shot.png)
 
 
 # GitHub repository for challenge 1
