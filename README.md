@@ -1,14 +1,14 @@
 # Module 1 Challenge - Update codebase to reflect accessibility standards
 
-* Marketing agency wants a codebase that follows accessibility standards so that their website is optimized for search engines.
+Marketing agency wants a codebase that follows accessibility standards so that their website is optimized for search engines.
 
 ## View the source code and update HTML to semantic elements.
 
-When I first viewed the code I noticed that it didn't have semantic elements, code was wrapped in the div element (non-semantic). I updated all the divs to semantic elements ie the header is now wrapped in the <header> element, footer is wrapped in the <footer> element, each section is wrapped in the <section> element and the images with description are wrapped in the <article> element.
+* When I first viewed the code I noticed that it didn't have semantic elements, code was wrapped in the div element (non-semantic). I updated all the divs to semantic elements using the header, footer, section, article, and aside elements.
 
 ## View the structure of the HTML elements and follow a logical structure independent of styling and positioning.
 
-This looked pretty spot on. Everything looks like it's in the right order and follows the styling of the web page.
+* This looked pretty spot on. Everything looks like it's in the right order and follows the styling of the web page.
 
 ## Find the image elements and add accessible alt attributes to them.
 
@@ -27,14 +27,14 @@ This looked pretty spot on. Everything looks like it's in the right order and fo
 
 The following image demonstrates the web application's appearance and functionality:
 
-![Screen shot of the top portion of the Horiseon website.](https://github.com/joliver521/horiseon/blob/main/assets/images/website-top-screen-shot.png)
+![Screen shot of the top portion of the Horiseon website.](./assets/images/website-top-screen-shot.png)
 
-![Screen shot of the bottom portion of the Horiseon website.](https://github.com/joliver521/horiseon/blob/main/assets/images/website-bottom-screen-shot.png)
+![Screen shot of the bottom portion of the Horiseon website.](./assets/images/website-bottom-screen-shot.png)
 
 
 # GitHub repository for challenge 1
-https://github.com/joliver521/horiseon
+[Github Repo](https://github.com/joliver521/horiseon)
 
 
 # Live website for challenge 1
-https://joliver521.github.io/horiseon/
+[Live Horiseon website](https://joliver521.github.io/horiseon/)
