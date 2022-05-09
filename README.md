@@ -1,6 +1,10 @@
-# Module 1 Challenge - Update codebase to reflect accessibility standards
+# Update codebase to reflect accessibility standards
 
 Marketing agency wants a codebase that follows accessibility standards so that their website is optimized for search engines.
+
+![Screen shot of the top portion of the Horiseon website.](./assets/images/website-top-screen-shot.png)
+
+![Screen shot of the bottom portion of the Horiseon website.](./assets/images/website-bottom-screen-shot.png)
 
 ## View the source code and update HTML to semantic elements.
 
@@ -26,11 +30,6 @@ Marketing agency wants a codebase that follows accessibility standards so that t
 ## Assets
 
 The following image demonstrates the web application's appearance and functionality:
-
-![Screen shot of the top portion of the Horiseon website.](./assets/images/website-top-screen-shot.png)
-
-![Screen shot of the bottom portion of the Horiseon website.](./assets/images/website-bottom-screen-shot.png)
-
 
 # GitHub repository for challenge 1
 [Github Repo](https://github.com/joliver521/horiseon)
