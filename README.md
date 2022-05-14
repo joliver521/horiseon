@@ -21,7 +21,7 @@ Marketing agency wants a codebase that follows accessibility standards so that t
 
 ## Find and verify the heading attributes that they fall in sequential order.
 
-* Moved the <link> below the title.
+* Moved the link below the title.
 
 ## Find and verify the title element has a concise, descriptive title.
 
